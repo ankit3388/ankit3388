@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**ankit3388/ankit3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ankit3388/ankit3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## 💫 About Me 
-# Hello! I am Ankit Kumar, passionate about competitive programming and backend development. Proficient in C++, C, and JavaScript and working Knowledge of Python , I enjoy tackling complex problems. In the professional realm, I navigate Node.js with Express.js, creating efficient and scalable backend solutions. Excited about the endless possibilities in technology, I'm ready to take on new challenges and contribute innovative solutions.
+Hello! I am Ankit Kumar, passionate about competitive programming and backend development. Proficient in C++, C, and JavaScript and working Knowledge of Python , I enjoy tackling complex problems. In the professional realm, I navigate Node.js with Express.js, creating efficient and scalable backend solutions. Excited about the endless possibilities in technology, I'm ready to take on new challenges and contribute innovative solutions.
 I'm currently looking to explore the domains of Machine Learning and AI.
 Here are some ideas to get you started:
 
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
